@@ -4,3 +4,7 @@ pandas
 numpy
 scikit-learn
 joblib
+openpyxl
+xarray
+rioxarray
+rasterio
